@@ -20,7 +20,7 @@ jobs:
     - name: Deploy Doxygen
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: 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
+        github_token: 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
         publish_dir: ./public
 
   
